@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909114807656",
+    "firebase_url": "https://test-ac30d.firebaseio.com",
+    "project_id": "test-ac30d",
+    "storage_bucket": "test-ac30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909114807656:android:e8f209433ab90aaf8972dd",
+        "android_client_info": {
+          "package_name": "com.github.ppartisan.simplealarms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909114807656-ocsrd1vqjkn3dh6aspknrhqp3cveoqv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.ppartisan.simplealarms",
+            "certificate_hash": "a4d0794585cf9411c5a683e380eca9d9ca708af3"
+          }
+        },
+        {
+          "client_id": "909114807656-nq30oq9856c14qnshtap1dp1m21vhl31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjfP_hb3e0BdRCqobWR3x7xztD3n-3qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909114807656-nq30oq9856c14qnshtap1dp1m21vhl31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
